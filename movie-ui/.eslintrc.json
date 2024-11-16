@@ -1,0 +1,7 @@
+{
+	"extends": "next/core-web-vitals",
+	"no-unused-vars": "error",
+	"no-unused-imports": "error",
+	"import/no-unresolved": "error",
+	"no-undefined": "error"
+}
